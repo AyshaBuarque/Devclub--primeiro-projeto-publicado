@@ -5,3 +5,5 @@
 
 <h3> Será?</h3>
 
+<img src="https://github.com/AyshaBuarque/easy-shopping/blob/main/Captura%20de%20tela%202025-05-30%20162944.png?raw=true">
+

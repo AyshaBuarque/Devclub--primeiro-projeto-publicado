@@ -5,5 +5,3 @@
 
 <h3> Será?</h3>
 
-<img href="./illustration-3-3.svg">
-
